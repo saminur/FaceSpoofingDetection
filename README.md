@@ -1,4 +1,5 @@
 # FaceSpoofingDetection
+Face Detection or fake image identification has become a popular area of research in computer science. Here I am using different existing approaches and modify them in my development to solve the problem of fake image detection. Throughout this work, I will try to present an in-depths analysis of the existing fake image or face spoofing detection methods and propose a solution or solutions mainly for improving the texture-based methods and try to put some in detail analysis of LBP for better feature extraction concerning classification accuracy and error rate.
 
 Step by Step Running of the Project:
 
