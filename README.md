@@ -42,18 +42,27 @@ Requirement to run:
 
 
 (I)preprocessing steps which might not need to run for you
+
 	a) Ensure OpenCV installed in your python environemnt 
+	
 	b) create a directory structure like 
 		-train_cropped
+		
 			-fake
+			
 			-real
 	c) Run the backgroundconvert.py file
+	
 	d) remove the main train directory and rename the train_cropped as train.
+	
 (II)imageSegmentation.py
+
 	a) will generate the lBP histogram diagram and the process of texture feature extraction steps
+	
 	b) used for describing methodology in report
 
 (III) Ensure LocalBinaryPattern.py and imgaeClassificationUsingLBP.py file in same directory
+
 	a)install mahotas in mpython environment [command(pip install mahotas)]
 	b)install sklearn, skimage 
 	c) run the imgaeClassificationUsingLBP.py (it will take time to finish)
