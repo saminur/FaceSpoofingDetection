@@ -4,16 +4,22 @@ Step by Step Running of the Project:
 
 1.Download the data source:
 links: https://www.kaggle.com/ciplab/real-and-fake-face-detection
+
 Other sources: 
+
 links: https://www.kaggle.com/c/deepfake-detection-challenge/data
 https://www.kaggle.com/xhlulu/flickrfaceshq-dataset-nvidia-part-1
+
+
 
 Note:- put the downloaded image as below folder strcuture
 -train
 	-fake
 	-real
 
+
 2.Project Running
+
 Requirement to run:
 	python 3.7.4
 	scikit-learn 0.21.3
