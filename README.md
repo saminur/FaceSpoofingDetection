@@ -25,12 +25,19 @@ Note:- put the downloaded image as below folder strcuture
 
 Requirement to run:
 	python 3.7.4
+	
 	scikit-learn 0.21.3
+	
 	scikit-image 0.16.2
+	
 	mahotas 1.4.9
+	
 	matplotlib 3.1.1
+	
 	opencv-contrib-python 4.2.0.32
+	
 	opencv-python 4.2.0.32
+	
 	scipy 1.3.1
 
 
