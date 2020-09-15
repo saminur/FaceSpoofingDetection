@@ -13,8 +13,11 @@ https://www.kaggle.com/xhlulu/flickrfaceshq-dataset-nvidia-part-1
 
 
 Note:- put the downloaded image as below folder strcuture
+
 -train
+
 	-fake
+	
 	-real
 
 
